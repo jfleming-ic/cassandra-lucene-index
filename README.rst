@@ -3,6 +3,7 @@
 Project Status
 ================================
 Important project update regarding Apache Cassandra 5.0
+
 We will not upgrade the Cassandra Lucene Index to support Apache Cassandra 5.0.
 
 This decision stems from the introduction of `Storage Attached Indexing (SAI) <https://cassandra.apache.org/doc/latest/cassandra/developing/cql/indexing/sai/sai-concepts.html>`__, which offers integrated, native indexing capabilities that are more aligned with Cassandra’s performance and scalability goals.
